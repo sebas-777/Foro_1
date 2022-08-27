@@ -14,3 +14,4 @@ Estudiante asignatura  Desarrollo de software
 DOCUMENTO: https://raw.githubusercontent.com/Mcdonoughd/CS2223/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
 
 
+![image](https://user-images.githubusercontent.com/53665624/187010028-91a7ecc8-7459-4819-9970-3ef2b1815a3e.png)
